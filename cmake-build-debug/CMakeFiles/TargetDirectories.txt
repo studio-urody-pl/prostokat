@@ -1,0 +1,3 @@
+/Users/pieknytomasz/CLionProjects/prostokat/cmake-build-debug/CMakeFiles/prostokat.dir
+/Users/pieknytomasz/CLionProjects/prostokat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pieknytomasz/CLionProjects/prostokat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
